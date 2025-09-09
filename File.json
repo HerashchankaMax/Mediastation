@@ -1,0 +1,19 @@
+{
+  "name": "My Custom Media Page",
+  "version": 1,
+  "logo": "https://img.icons8.com/fluency/96/media-player-app.png",
+  "menu": [
+    {
+      "name": "OttPlayer",
+      "icon": "https://img.icons8.com/fluency/96/video-playlist.png",
+      "action": "menu:http://msx.ottplayer.tv",
+      "description": "Launch the official OttPlayer portal to access your playlists."
+    },
+    {
+      "name": "VK Video",
+      "icon": "https://img.icons8.com/fluency/96/video.png",
+      "action": "menu:http://msx.noname.h1n.ru",
+      "description": "Access a public portal for VK videos and other content."
+    }
+  ]
+}
